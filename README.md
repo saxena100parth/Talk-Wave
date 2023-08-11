@@ -20,9 +20,7 @@ with other users through individual and group chats.
 - Responsive Design with Chakra UI
 - Cloud-Based Image Storage with Cloudinary
 
-- 
 ## Screenshots
-
 ![App Screenshot](https://github.com/jamesqquick/read-me-template/assets/87128985/20eaf573-a10a-4158-abe1-419d80ace12d)
 
 ![talk-wave-login](https://github.com/jamesqquick/read-me-template/assets/87128985/d36d721f-b218-4bc7-90be-639f7483b0e8)
