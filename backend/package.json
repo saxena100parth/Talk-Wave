@@ -4,9 +4,9 @@
   "description": "talk-wave is feature-rich chat app by Parth.",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npm install && npm install --prefix frontend && npm reun build --prefix frontend"
+    "build": "npm install && npm install --prefix ../frontend && npm reun build --prefix ../frontend"
   },
   "author": "Parth saxena",
   "license": "ISC",
