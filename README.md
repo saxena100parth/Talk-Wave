@@ -3,7 +3,7 @@
 Talk-wave is a chat user-friendly web application that allows users to engage in real-time conversations
 with other users through individual and group chats.
 
-- Deployed - [Link](https://saxena100parth.github.io/Portfolio/index.html)
+### Deployed Link - [click here](https://talk-wave-by-parth.onrender.com/)
 
 ## Overview
 
