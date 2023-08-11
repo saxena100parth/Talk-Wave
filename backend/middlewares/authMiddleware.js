@@ -1,6 +1,6 @@
 // This middleware is used to protect routes from unauthorized users.
 const jwt = require("jsonwebtoken");
-const User = require("../models/userModel");
+const User = require("../Models/userModel");
 const asyncHandler = require("express-async-handler");
 
 const protect = asyncHandler(async (req, res, next) => {

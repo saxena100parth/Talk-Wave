@@ -1,7 +1,7 @@
 const asyncHandler = require("express-async-handler");
 const Message = require("../models/messageModel");
-const User = require("../models/userModel");
-const Chat = require("../models/chatModel");
+const User = require("../Models/userModel");
+const Chat = require("../Models/chatModel");
 
 // create a new message in chat (group or individual)
 const sendMessage = asyncHandler(async (req, res) => {
