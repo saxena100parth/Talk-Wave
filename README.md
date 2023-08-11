@@ -11,6 +11,15 @@ with other users through individual and group chats.
 - MongoDB Atlas for cloud database.
 - Deployed on Render platform.
 
+## Key Features
+
+- Real-Time Messaging with Socket.io
+- Group Chats and Chat Rooms
+- User Authentication and Profiles
+- MongoDB Atlas Integration
+- Responsive Design with Chakra UI
+- Cloud-Based Image Storage with Cloudinary
+
 
 
 ## Author Info
