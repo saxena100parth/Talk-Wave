@@ -4,7 +4,8 @@
 
 <p>Talk-wave is a user-friendly chat web application that allows users to engage in real-time conversations with other users through individual and group chats.</p>
 
-<h4> <a href=https://talk-wave-by-parth.onrender.com/>Deployed Link</a> <span> 
+<h4> <a href=https://talk-wave-by-parth.onrender.com/>Deployed Link</a> </h4>
+<h4> <a href=https://clipchamp.com/watch/9dxXFNlhdGK>Video Link</a> </h4>
 
 </div>
 
